@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DogListApi</string>
+    <string name="tu_imagen_del_perro_buscado">Tu imagen del perro buscado</string>
+</resources>
